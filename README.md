@@ -1,4 +1,4 @@
-# MarceloLimaIA
+# My Introduction
 Professional portfolio for AI training, data quality, and game testing
 # AI Training Data | Quality Assurance | Game Testing
 
